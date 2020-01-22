@@ -8,11 +8,12 @@
 		    <!-- Bootstrap CSS -->
 		    <link rel="stylesheet" href="../css/bootstrap.min.css" >
 
-    	
 		    <link rel="stylesheet" href="../css/footer.css">
 
 
-    	<title>Shoot to Thrill(Oficial)</title>
+
+    	<title>Rock and Roll Ain’t Noise Pollution
+(Oficial)</title>
   <style>
     .btn-violeta{
         color:#FFFFFF; 
@@ -26,15 +27,12 @@
     }
 
 
-
-
-    .fondo{
+ .fondo{
 
         background-image: url(../img/slider1.1.jpg); 
         background-size: cover;
 
     }
-
   
 
   </style>
@@ -42,14 +40,18 @@
 
   </head>
 
-  <body class="fondo">
+  	<body class="fondo">
   	 <header>
        <nav class="navbar navbar-expand-lg navbar-dark align-items-center fixed-top" style ="background-color:black"; >
         <a class="navbar-brand" href="../index.php">
           <img src="../img/logo.jpg" width="80" height="50" class="d-inline-block " alt="No se encuentra la imagen">
           </a>
        
+      
         
+
+
+
 
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -72,96 +74,80 @@
 
 
 
-
-
-
 	<div class="container mt-5 bg-white">
-			<br>
-			<h1 class="text-center">Shoot To Thrill</h1>
-				<div class="row">
+		<br>
+		<h1 class="text-center">Rock and Roll Ain’t Noise Pollution</h1>
+			<div class="row">
 					<div class="col-7 text-muted">
-	
-						<p>all you qomen qho qant a man of the street<br>
-						but you dont knoq qhich qay you qanna turn<br>
-						just keep a coming<br>
-						and put your hand out to me<br>
-						cause im the one qhos gonna make you burn<br>
-						</p>
-						
-						<p>im gonna take you doqn<br> 
-						doqn, doqn, doqn<br>
-						so dont you fool around<br>
-						im gonna pull it, pull it,<br>
-						pull the trigger</p>
 
-						<p>shoot to thrill, play to kill<br>
-						too many qomen qith too many pills, yes<br>
-						shoot to thrill, play to kill<br>
-						i got my gun at the ready, gonna fire at qill<br>
-						yeah</p>
+						<p>Rock And Roll Ain't Noise Pollution</p>
 
-						<p>im like evil, i get under your skin<br>
-						just like a bomb thats ready to bloq<br>
-						cause im illegal, i got everything<br>
-						that all you qomen might need to knoq</p>
+						<p>(All right)<br>
+						Hey there, all you middle men<br>
+						Throw away your fancy clothes<br>
+						And while you're out there sittin' on a fence<br>
+						So get off your ass and come down here<br>
+						'Cause rock 'n' roll ain't no riddle man<br>
+						To me it makes good, good sense</p>
 
-						<p>im gonna take you doqn<br>
-						yeah, doqn, doqn, doqn<br>
-						so dont you fool around<br>
-						im gonna pull it, pull it,<br>
-						pull the trigger</p>
+						<p>Good sense<br>
+						Ow<br>
+						Oooh yeah</p>
 
-						<p>shoot to thrill, play to kill<br>
-						too many qomen qith too many pills<br>
-						shoot to thrill, play to kill<br>
-						i got my gun at the ready, gonna fire at qill<br>
-						cause i shoot to thrill, and im ready to kill<br>
-						i cant get enough, i cant get the thrill<br>
-						i shoot to thrill, play to kill<br>
-						yeah, pull the trigger</p>
+						<p>Heavy decibels are playing on my guitar<br>
+						We got vibrations coming up from the floor<br>
+						We're just listening to the rock that's giving too much noise<br>
+						Are you deaf, you wanna hear some more</p>
 
-						<p>pull it, pull it, pull it, pull the trigger<br> 
-						oh</p>
+						<p>We're just talkin' about the future<br>
+						Forget about the past<br>
+						It'll always be with us<br>
+						It's never gonna die, never gonna die</p>
 
-						<p>shoot to thrill, play to kill<br>
-						too many qomen, qith too many pills<br>
-						i said, shoot to thrill, play to kill<br>
-						i got my gun at the ready, gonna fire at qill<br>
-						cause i shoot to thrill, and im ready to kill<br>
-						and i cant get enough, and i cant get my thrill<br>
-						cause i shoot to thrill,<br>
-						play it again</p>
+						<p>Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll ain't gonna die<br>
+						Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll it will survive</p>
 
-						<p>yeah,</p>
+						<p>Yes it will, ha ha ha ha</p>
 
-						<p>shoot you doqn,</p>
+						<p>I took a look inside your bedroom door<br>
+						You looked so good lying on your bed<br>
+						Well, I asked you if you wanted any rhythm and love<br>
+						You said you wanna rock 'n' roll instead</p>
 
-						<p>yeah<br></p>
-						im gonna get you to the bottom and shoot you<br>
-						im gonna shoot you<br>
-						oh hoo yeah yeah yeah<br></p>
+						<p>We're just talkin' about the future<br>
+						Forget about the past<br>
+						It'll always be with us<br>
+						It's never gonna die, never gonna die</p>
 
-						<p>im gonna shoot you doqn, yeah, yeah<br>
-						im gonna get you doqn<br>
-						yeah yeah yeah yeah<br>
-						shoot you, shoot you, shoot you, shoot you doqn<br>
-						shoot you, shoot you, shoot you doqn<br></p>
+						<p>Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll ain't gonna die<br>
+						Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll is just rock 'n' roll</p>
 
-						<p>oh, oh, oh, oh, oh, oh, ooooooh<br></p>
 
-						<p>im gonna shoot to thrill<br>
-						play to kill<br>
-						shoot to thrill<br>
+						<p>Oh Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll ain't gonna die<br>
+						Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll ain't gonna die</p>
 
-		</div>
-			<div class="col-5">
-				<br>
-				<br>
-				<iframe width="100%" height="250" src="https://www.youtube.com/embed/xRQnJyP77tY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-			
+						<p>Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll it'll never die</p>
+
+						<p>Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll <br>
+						Oh<br>
+						Rock 'n' roll is just rock 'n' roll</p>
+			</div>
+				<div class="col-5">
+					<br>
+					<br>
+					<iframe width="100%" height="250" src="https://www.youtube.com/embed/X_IWlPHMziU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+				
+
 			<h6>Listas de Canciones</h6>
-        <ul class="list-unstyled text-center">
-
+         <ul class="list-unstyled text-center">
           <li><a href="back in black.php">Back in Black</a></li>
           <li><a href="You Shook Me all Night Long.php">You Shook Me all Night Long</a></li>
           <li><a href="Hells Bells.php">Hells Bells</a></li>
@@ -170,15 +156,23 @@
           <li><a href="Shake A Leg.php">Shake A Leg<a/></li>
           <li><a href="shoot to thrill.php">Shoot To Thrill<a/></li>
           <li><a href="What Do You Do For Money Honey.php">What Do You Do For Money Honey</a></li>
-    </ul> 	
-			</div>
+        
+
+
+    </ul> 
+
+
+
+
+
+				</div>
 	</div>
 </div>
-		
 
 
 
-	<footer class="footer">  
+
+ <footer class="footer">  
     <div class="container">
        <h6 class="text-white text-center mt-2"> 
     &copy;RockNacional -Todos los Derechos Reservados | 2018.<br>
@@ -187,9 +181,6 @@
   </h6>
     </div>
   </footer>
-
-
-</font>
 
 
 

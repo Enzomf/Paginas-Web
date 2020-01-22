@@ -138,11 +138,7 @@
 				<div class="col-5">
 					<br>
 					<br>
-					<video width="100%" height="350px" controls>
-						<source src="HAVE A DRINK ON ME.mp4" type="video/mp4">
-
-
-					</video>
+					<iframe width="100%" height="250" src="https://www.youtube.com/embed/R3eN6WvERaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 		<h6>Listas de Canciones</h6>
         <ul class="list-unstyled text-center">

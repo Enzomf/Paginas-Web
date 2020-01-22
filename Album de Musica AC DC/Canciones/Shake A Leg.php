@@ -119,7 +119,7 @@
 				<div class="col-5">
 					<br>
 					<br>
-					<iframe width="100%" height="250" src="https://www.youtube.com/embed/aUpQyNo8ALw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe width="100%" height="250" src="https://www.youtube.com/embed/ww40RmFNsNo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				
 			<h6>Listas de Canciones</h6>
         <ul class="list-unstyled text-center">
