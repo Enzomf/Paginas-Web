@@ -8,12 +8,12 @@
 		    <!-- Bootstrap CSS -->
 		    <link rel="stylesheet" href="../css/bootstrap.min.css" >
 
-    		<link rel="stylesheet" href="../css/footer.css">
+		    <link rel="stylesheet" href="../css/footer.css">
 
 
 
-
-    	<title>Shake A Leg(Oficial)</title>
+    	<title>Rock and Roll Ain’t Noise Pollution
+(Oficial)</title>
   <style>
     .btn-violeta{
         color:#FFFFFF; 
@@ -27,29 +27,34 @@
     }
 
 
-    .fondo{
+ .fondo{
 
         background-image: url(../img/slider1.1.jpg); 
         background-size: cover;
 
     }
-
   
 
   </style>
 
 
   </head>
+
   	<body class="fondo">
   	 <header>
-      <nav class="navbar navbar-expand-lg navbar-dark align-items-center fixed-top" style ="background-color:black"; >
+       <nav class="navbar navbar-expand-lg navbar-dark align-items-center fixed-top" style ="background-color:black"; >
         <a class="navbar-brand" href="../index.php">
           <img src="../img/logo.jpg" width="80" height="50" class="d-inline-block " alt="No se encuentra la imagen">
           </a>
        
-
+      
         
-         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+
+
+
+
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse text-center" id="navbarNavAltMarkup">
@@ -67,62 +72,82 @@
 
 
 
+
+
 	<div class="container mt-5 bg-white">
 		<br>
-		<h1 class="text-center">Shake A Leg</h1>
+		<h1 class="text-center">Rock and Roll Ain’t Noise Pollution</h1>
 			<div class="row">
 					<div class="col-7 text-muted">
 
-						<p>Idle juvenile on the street on the street<br>
-						Kickin' everything with his feet with his feet<br>
-						Fightin' on the wrong side of the law of the law<br>
-						Don't kick don't fight don't sleep at night<br>
-						And shake a leg<br>
-						Shake a leg<br>
-						Shake a leg<br>
-						Shake it again</p>
+						<p>Rock And Roll Ain't Noise Pollution</p>
 
-						<p>Keepin' outta trouble with eyes in the back of my face<br>
-						Kickin' ass in the class and they tell me I’m a damn disgrace<br>
-						They tell me what they think but they stink and I really don't care<br>
-						Got a mind of my own move on get outta my hair<br>
-						Shake a leg shake your head<br>
-						Shake a leg wake the dead<br>
-						Shake a leg get stuck in<br>
-						Shake a leg shake a leg</p>
+						<p>(All right)<br>
+						Hey there, all you middle men<br>
+						Throw away your fancy clothes<br>
+						And while you're out there sittin' on a fence<br>
+						So get off your ass and come down here<br>
+						'Cause rock 'n' roll ain't no riddle man<br>
+						To me it makes good, good sense</p>
 
-						<p>Magazines wet dreams dirty women on machine's for me<br>
-						Big licks skin flicks tricky dick's are my chemistry<br>
-						Goin' against the grain tryin to keep me sane with you<br>
-						So stop your grinnin' and drop your linen for me<br>
-						Shake a leg shake your head<br>
-						Shake a leg wake the dead<br>
-						Shake a leg get stuck in<br>
-						Shake a leg shake a leg<br>
-						Shake it</p>
+						<p>Good sense<br>
+						Ow<br>
+						Oooh yeah</p>
 
-						<p>Idle juvenile on the street on the street<br>
-						Kickin' everything with his feet with his feet<br>
-						Fightin' on the wrong side of the law of the law<br>
-						Spittin' and bitin' and kickin' and fightin' for more<br>
-						Shake a leg shake your head<br>
-						Shake a leg wake the dead<br>
-						Shake a leg get stuck in<br>
-						Shake a leg play to win<br>
-						Shake a leg shake your head<br>
-						Shake a leg wake the dead<br>
-						Shake a leg get stuck in<br>
-						Shake a leg<br>
-						Shake a leg</p>
+						<p>Heavy decibels are playing on my guitar<br>
+						We got vibrations coming up from the floor<br>
+						We're just listening to the rock that's giving too much noise<br>
+						Are you deaf, you wanna hear some more</p>
 
-   			</div>
+						<p>We're just talkin' about the future<br>
+						Forget about the past<br>
+						It'll always be with us<br>
+						It's never gonna die, never gonna die</p>
+
+						<p>Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll ain't gonna die<br>
+						Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll it will survive</p>
+
+						<p>Yes it will, ha ha ha ha</p>
+
+						<p>I took a look inside your bedroom door<br>
+						You looked so good lying on your bed<br>
+						Well, I asked you if you wanted any rhythm and love<br>
+						You said you wanna rock 'n' roll instead</p>
+
+						<p>We're just talkin' about the future<br>
+						Forget about the past<br>
+						It'll always be with us<br>
+						It's never gonna die, never gonna die</p>
+
+						<p>Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll ain't gonna die<br>
+						Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll is just rock 'n' roll</p>
+
+
+						<p>Oh Rock 'n' roll ain't noise pollution<br>
+						Rock 'n' roll ain't gonna die<br>
+						Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll ain't gonna die</p>
+
+						<p>Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll it'll never die</p>
+
+						<p>Rock 'n' roll ain't no pollution<br>
+						Rock 'n' roll <br>
+						Oh<br>
+						Rock 'n' roll is just rock 'n' roll</p>
+			</div>
 				<div class="col-5">
 					<br>
 					<br>
-					<iframe width="100%" height="250" src="https://www.youtube.com/embed/aUpQyNo8ALw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+					<iframe width="100%" height="250" src="https://www.youtube.com/embed/X_IWlPHMziU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 				
+
 			<h6>Listas de Canciones</h6>
-        <ul class="list-unstyled text-center">
+         <ul class="list-unstyled text-center">
           <li><a href="back in black.php">Back in Black</a></li>
           <li><a href="You Shook Me all Night Long.php">You Shook Me all Night Long</a></li>
           <li><a href="Hells Bells.php">Hells Bells</a></li>
@@ -134,17 +159,20 @@
         
 
 
-    </ul> 	
+    </ul> 
+
+
+
+
 
 				</div>
 	</div>
 </div>
-		
 
 
 
 
-		<footer class="footer">  
+ <footer class="footer">  
     <div class="container">
        <h6 class="text-white text-center mt-2"> 
     &copy;RockNacional -Todos los Derechos Reservados | 2018.<br>
@@ -153,6 +181,7 @@
   </h6>
     </div>
   </footer>
+
 
 
 
